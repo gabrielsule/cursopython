@@ -1,4 +1,4 @@
-#Curso de Python
+# Curso de Python
 
 #### Primitive Types
 - string
