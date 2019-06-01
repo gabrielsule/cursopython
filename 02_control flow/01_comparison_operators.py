@@ -1,0 +1,12 @@
+print(23 > 32)
+print(23 >= 32)
+print(23 < 32)
+print(23 <= 32)
+print(23 == 32)
+print(23 != 32)
+
+print("b" == "b")
+print("b" == "B")
+print("b" == "b")
+print(ord("b"))
+print(ord("B"))

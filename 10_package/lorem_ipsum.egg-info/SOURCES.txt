@@ -1,0 +1,9 @@
+README.md
+setup.py
+lorem_ipsum.egg-info/PKG-INFO
+lorem_ipsum.egg-info/SOURCES.txt
+lorem_ipsum.egg-info/dependency_links.txt
+lorem_ipsum.egg-info/top_level.txt
+pypdf/__init__.py
+pypdf/pdf2img.py
+pypdf/pdf2txt.py
